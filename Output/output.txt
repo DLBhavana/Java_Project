@@ -1,0 +1,349 @@
+Test Case-1:
+     
+Enter Name: Arav
+Enter Age: 34
+Enter Address: Vijayawada
+
+Menu:
+1. View Medicines
+2. Add to Cart
+3. Remove from Cart
+4. View Cart
+5. View Bill
+6. Checkout
+7. View Total Sales
+8. Exit
+Choose: 1
+
+Available Medicines:
+1. Paracetamol - ?20.50
+2. Aspirin - ?30.75
+3. Ibuprofen - ?25.00
+4. Amoxicillin - ?50.00
+5. Cetirizine - ?40.20
+6. Loratadine - ?35.00
+7. Metformin - ?60.00
+8. Hydrochlorothiazide - ?12.30
+9. Simvastatin - ?80.50
+10. Atorvastatin - ?90.00
+11. Losartan - ?70.00
+12. Clopidogrel - ?110.00
+13. Omeprazole - ?65.50
+14. Esomeprazole - ?72.30
+15. Ciprofloxacin - ?55.00
+16. Diclofenac - ?45.00
+17. Dexamethasone - ?15.00
+18. Fluoxetine - ?85.00
+19. Sertraline - ?95.00
+20. Alprazolam - ?40.00
+21. Diazepam - ?50.00
+22. Tamsulosin - ?70.00
+23. Ranitidine - ?35.00
+24. Lisinopril - ?45.00
+25. Furosemide - ?28.00
+26. Levothyroxine - ?100.00
+27. Fluconazole - ?40.00
+28. Naproxen - ?30.00
+29. Gabapentin - ?60.00
+30. Omeprazole - ?65.00
+31. Montelukast - ?80.00
+32. Lorazepam - ?50.00
+33. Prednisolone - ?45.00
+34. Citalopram - ?75.00
+35. Methylprednisolone - ?120.00
+36. Loperamide - ?25.00
+37. Fexofenadine - ?50.00
+38. Diphenhydramine - ?20.00
+39. Ketoconazole - ?85.00
+40. Miconazole - ?60.00
+41. Clotrimazole - ?55.00
+42. Isoniazid - ?50.00
+43. Pyrazinamide - ?80.00
+44. Rifampicin - ?70.00
+45. Gentamicin - ?100.00
+46. Chlorpheniramine - ?15.00
+47. Prednisone - ?95.00
+48. Azithromycin - ?85.00
+49. Doxycycline - ?120.00
+50. Tetracycline - ?110.00
+
+Menu:
+1. View Medicines
+2. Add to Cart
+3. Remove from Cart
+4. View Cart
+5. View Bill
+6. Checkout
+7. View Total Sales
+8. Exit
+Choose: 2
+Enter medicine numbers (comma-separated): 2,6,7,5,10,12,34,32,45
+Aspirin added to cart.
+Loratadine added to cart.
+Metformin added to cart.
+Cetirizine added to cart.
+Atorvastatin added to cart.
+Clopidogrel added to cart.
+Citalopram added to cart.
+Lorazepam added to cart.
+Gentamicin added to cart.
+
+Menu:
+1. View Medicines
+2. Add to Cart
+3. Remove from Cart
+4. View Cart
+5. View Bill
+6. Checkout
+7. View Total Sales
+8. Exit
+Choose: 4
+
+Cart for Arav:
+1. Aspirin - ?30.75
+2. Loratadine - ?35.00
+3. Metformin - ?60.00
+4. Cetirizine - ?40.20
+5. Atorvastatin - ?90.00
+6. Clopidogrel - ?110.00
+7. Citalopram - ?75.00
+8. Lorazepam - ?50.00
+9. Gentamicin - ?100.00
+
+Menu:
+1. View Medicines
+2. Add to Cart
+3. Remove from Cart
+4. View Cart
+5. View Bill
+6. Checkout
+7. View Total Sales
+8. Exit
+Choose: 5
+Total Bill for Arav: ?590.95
+
+Menu:
+1. View Medicines
+2. Add to Cart
+3. Remove from Cart
+4. View Cart
+5. View Bill
+6. Checkout
+7. View Total Sales
+8. Exit
+Choose: 6
+
+Choose Payment Method:
+1. Cash
+2. Cheque
+3. Credit Card
+4. Mobile Wallet
+3
+Card Number: 567687980
+Paid ?590.95 via Credit Card 567687980
+Thank you for shopping, Arav!
+
+Menu:
+1. View Medicines
+2. Add to Cart
+3. Remove from Cart
+4. View Cart
+5. View Bill
+6. Checkout
+7. View Total Sales
+8. Exit
+Choose: 7
+Total Medicines Sold: 9
+Total Sales: ?590.95
+
+Menu:
+1. View Medicines
+2. Add to Cart
+3. Remove from Cart
+4. View Cart
+5. View Bill
+6. Checkout
+7. View Total Sales
+8. Exit
+Choose: 8
+Goodbye!
+
+
+Test Case-2:
+
+Welcome to the Medicine Store!
+Enter your name: Pooja
+Enter your age: 39
+Enter your address: Hyderabad
+
+1. View Available Medicines
+2. Add Medicines to Cart
+3. Remove Medicines from Cart
+4. View Purchased Items
+5. View Total Bill
+6. Make Payment
+7. View Total Sales
+8. Exit
+Choose an option: 1
+
+Available Medicines:
+1. Medicine: Paracetamol | Price: ?20.50
+2. Medicine: Aspirin | Price: ?30.75
+3. Medicine: Ibuprofen | Price: ?25.00
+4. Medicine: Amoxicillin | Price: ?50.00
+5. Medicine: Cetirizine | Price: ?40.20
+6. Medicine: Loratadine | Price: ?35.00
+7. Medicine: Metformin | Price: ?60.00
+8. Medicine: Hydrochlorothiazide | Price: ?12.30
+9. Medicine: Simvastatin | Price: ?80.50
+10. Medicine: Atorvastatin | Price: ?90.00
+11. Medicine: Losartan | Price: ?70.00
+12. Medicine: Clopidogrel | Price: ?110.00
+13. Medicine: Omeprazole | Price: ?65.50
+14. Medicine: Esomeprazole | Price: ?72.30
+15. Medicine: Ciprofloxacin | Price: ?55.00
+16. Medicine: Diclofenac | Price: ?45.00
+17. Medicine: Dexamethasone | Price: ?15.00
+18. Medicine: Fluoxetine | Price: ?85.00
+19. Medicine: Sertraline | Price: ?95.00
+20. Medicine: Alprazolam | Price: ?40.00
+21. Medicine: Diazepam | Price: ?50.00
+22. Medicine: Tamsulosin | Price: ?70.00
+23. Medicine: Ranitidine | Price: ?35.00
+24. Medicine: Lisinopril | Price: ?45.00
+25. Medicine: Furosemide | Price: ?28.00
+26. Medicine: Levothyroxine | Price: ?100.00
+27. Medicine: Fluconazole | Price: ?40.00
+28. Medicine: Naproxen | Price: ?30.00
+29. Medicine: Gabapentin | Price: ?60.00
+30. Medicine: Omeprazole | Price: ?65.00
+31. Medicine: Montelukast | Price: ?80.00
+32. Medicine: Lorazepam | Price: ?50.00
+33. Medicine: Prednisolone | Price: ?45.00
+34. Medicine: Citalopram | Price: ?75.00
+35. Medicine: Methylprednisolone | Price: ?120.00
+36. Medicine: Loperamide | Price: ?25.00
+37. Medicine: Fexofenadine | Price: ?50.00
+38. Medicine: Diphenhydramine | Price: ?20.00
+39. Medicine: Ketoconazole | Price: ?85.00
+40. Medicine: Miconazole | Price: ?60.00
+41. Medicine: Clotrimazole | Price: ?55.00
+42. Medicine: Isoniazid | Price: ?50.00
+43. Medicine: Pyrazinamide | Price: ?80.00
+44. Medicine: Rifampicin | Price: ?70.00
+45. Medicine: Gentamicin | Price: ?100.00
+46. Medicine: Chlorpheniramine | Price: ?15.00
+47. Medicine: Prednisone | Price: ?95.00
+48. Medicine: Azithromycin | Price: ?85.00
+49. Medicine: Doxycycline | Price: ?120.00
+50. Medicine: Tetracycline | Price: ?110.00
+
+1. View Available Medicines
+2. Add Medicines to Cart
+3. Remove Medicines from Cart
+4. View Purchased Items
+5. View Total Bill
+6. Make Payment
+7. View Total Sales
+8. Exit
+Choose an option: 2
+Enter the numbers of the medicines to add (comma-separated): 4,5,2,1,6,7,8,9,3,23,18,29,32,19,37,44,41
+Added Amoxicillin to your cart.
+Added Cetirizine to your cart.
+Added Aspirin to your cart.
+Added Paracetamol to your cart.
+Added Loratadine to your cart.
+Added Metformin to your cart.
+Added Hydrochlorothiazide to your cart.
+Added Simvastatin to your cart.
+Added Ibuprofen to your cart.
+Added Ranitidine to your cart.
+Added Fluoxetine to your cart.
+Added Gabapentin to your cart.
+Added Lorazepam to your cart.
+Added Sertraline to your cart.
+Added Fexofenadine to your cart.
+Added Rifampicin to your cart.
+Added Clotrimazole to your cart.
+
+1. View Available Medicines
+2. Add Medicines to Cart
+3. Remove Medicines from Cart
+4. View Purchased Items
+5. View Total Bill
+6. Make Payment
+7. View Total Sales
+8. Exit
+Choose an option: 4
+
+Purchased Medicines for Pooja:
+1. Medicine: Amoxicillin | Price: ?50.00
+2. Medicine: Cetirizine | Price: ?40.20
+3. Medicine: Aspirin | Price: ?30.75
+4. Medicine: Paracetamol | Price: ?20.50
+5. Medicine: Loratadine | Price: ?35.00
+6. Medicine: Metformin | Price: ?60.00
+7. Medicine: Hydrochlorothiazide | Price: ?12.30
+8. Medicine: Simvastatin | Price: ?80.50
+9. Medicine: Ibuprofen | Price: ?25.00
+10. Medicine: Ranitidine | Price: ?35.00
+11. Medicine: Fluoxetine | Price: ?85.00
+12. Medicine: Gabapentin | Price: ?60.00
+13. Medicine: Lorazepam | Price: ?50.00
+14. Medicine: Sertraline | Price: ?95.00
+15. Medicine: Fexofenadine | Price: ?50.00
+16. Medicine: Rifampicin | Price: ?70.00
+17. Medicine: Clotrimazole | Price: ?55.00
+
+1. View Available Medicines
+2. Add Medicines to Cart
+3. Remove Medicines from Cart
+4. View Purchased Items
+5. View Total Bill
+6. Make Payment
+7. View Total Sales
+8. Exit
+Choose an option: 5
+Total Bill for Pooja: ?854.25
+
+1. View Available Medicines
+2. Add Medicines to Cart
+3. Remove Medicines from Cart
+4. View Purchased Items
+5. View Total Bill
+6. Make Payment
+7. View Total Sales
+8. Exit
+Choose an option: 6
+
+Select Payment Method:
+1. Cash (Offline)
+2. Cheque (Offline)
+3. Credit Card (Online)
+4. Mobile Wallet (Online)
+Choose an option (1-4): 1
+Payment of ?854.25 received in Cash.
+Thank you for your purchase, Pooja!
+
+1. View Available Medicines
+2. Add Medicines to Cart
+3. Remove Medicines from Cart
+4. View Purchased Items
+5. View Total Bill
+6. Make Payment
+7. View Total Sales
+8. Exit
+Choose an option: 7
+Total Medicines Sold: 17
+Total Sales Amount: ?854.25
+
+1. View Available Medicines
+2. Add Medicines to Cart
+3. Remove Medicines from Cart
+4. View Purchased Items
+5. View Total Bill
+6. Make Payment
+7. View Total Sales
+8. Exit
+Choose an option: 8
+Thank you for visiting the Medicine Store! 
